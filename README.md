@@ -16,7 +16,7 @@ Each folder contains its own source code and a detailed README.
 3. [Arduino Piano](./03_Arduino_Piano) - An interactive project using a buzzer and buttons (Tested in CRUMB).
 4. [Double LED Blink](./04_Double_Blink) - Alternating LED blink sequence using digital outputs.
 5. [Solar Logic Analyzer](./05_Solar_Energy_Logic) - Boolean expressions and operator precedence for environmental monitoring.
-6. [Solar Logic Analyzer](./06_Grade_System) - Nested ternary operators, switch-case fall-through, and input validation for academic performance tracking.
+6. [Grade_System](./06_Grade_System) - Nested ternary operators, switch-case fall-through, and input validation for academic performance tracking.
 
 ---
 *Created by Kamil Ciesielski*
