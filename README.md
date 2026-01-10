@@ -17,7 +17,7 @@ Each folder contains its own source code and a detailed README.
 4. [Double LED Blink](./04_Double_Blink) - Alternating LED blink sequence using digital outputs.
 5. [Solar Logic Analyzer](./05_Solar_Energy_Logic) - Boolean expressions and operator precedence for environmental monitoring.
 6. [Grade System](./06_Grade_System) - Nested ternary operators, switch-case fall-through, and input validation for academic performance tracking.
-7. [BMI Calculator]() - Handling data stream integrity with scanf return values, floating-point arithmetic, and edge-case validation.
+7. [BMI Calculator](./07_BMI_Calculator) - Handling data stream integrity with scanf return values, floating-point arithmetic, and edge-case validation.
 
 ---
 *Created by Kamil Ciesielski*
