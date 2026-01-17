@@ -19,6 +19,7 @@ Each folder contains its own source code and a detailed README.
 6. [Grade System](./06_Grade_System) - Nested ternary operators, switch-case fall-through, and input validation for academic performance tracking.
 7. [BMI Calculator](./07_BMI_Calculator) - Handling data stream integrity with scanf return values, floating-point arithmetic, and edge-case validation.
 8. [N Numbers Sum](./08_N_Numbers_Sum) - Implementing loop-based input processing, variable accumulation, and counter-driven iteration logic.
+9. [Multiplication table](./09_Multiplication_table) - Implementing nested loop structures, formatted output with field width specifiers, and coordinate-based arithmetic logic.
 
 ---
 *Created by Kamil Ciesielski*
